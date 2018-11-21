@@ -1,0 +1,22 @@
+
+
+
+
+                              
+							  
+							  
+				Welcome to the Decryption Screen 
+
+				Please make a selection:
+				
+				0. Exit back to Welcome Screen
+				1. Decryption Directions
+				2. Enter a Message 
+			
+			
+			
+			
+			
+			
+			
+			

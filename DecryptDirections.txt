@@ -1,0 +1,21 @@
+
+
+
+
+                              
+							  
+				Decryption Directions
+
+				1. Only characters defined in the letter set are allowed
+				(Unavailable characters will NOT be decrypted!)
+							  
+				2. Decryption works on individual characters and will NOT
+				change future output after the current character.
+							  
+				
+							  
+							  
+							  
+
+
+

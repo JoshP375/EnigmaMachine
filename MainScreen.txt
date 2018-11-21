@@ -1,0 +1,26 @@
+CIS220: Enigma Machine
+By: Josh Perez
+
+                              
+							  
+				Welcome to the Enigma Machine 
+
+				Please make a selection:
+							  
+				0. Exit
+				1. Encryption
+				2. Decryption 
+				3. Display Letter Set 
+				4. HTML Screen
+				5. Credits
+
+							  
+							    
+
+
+
+                                                                                         
+
+
+
+
